@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b03d1c40-2d06-4c43-996d-8de0a3719266" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.price</find>
+      <find>info</find>
+      <find>:zparnet</find>
+      <find>main-tab</find>
+      <find>.comment-box .lead</find>
+      <find>$_SESSION['user']</find>
+      <find>.profile-image</find>
+      <find>desc</find>
+      <find>date</find>
+    </findStrings>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectId" id="1a8hVyYJDL1Xjr0isiTK1w7tpyH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/xampp/htdocs/store" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b03d1c40-2d06-4c43-996d-8de0a3719266" name="Default" comment="" />
+      <created>1528472552605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528472552605</updated>
+      <workItem from="1528472554057" duration="5022000" />
+      <workItem from="1528514494665" duration="9218000" />
+      <workItem from="1528591552752" duration="6526000" />
+      <workItem from="1528636663343" duration="7118000" />
+      <workItem from="1528652612950" duration="7869000" />
+      <workItem from="1528688704781" duration="5406000" />
+      <workItem from="1528695349377" duration="3524000" />
+      <workItem from="1528701026598" duration="3821000" />
+      <workItem from="1528732428821" duration="22929000" />
+      <workItem from="1528821429855" duration="27181000" />
+      <workItem from="1528896305998" duration="13769000" />
+      <workItem from="1529000730226" duration="7254000" />
+      <workItem from="1545409659951" duration="7000" />
+      <workItem from="1545911665157" duration="9000" />
+      <workItem from="1546787986328" duration="192000" />
+      <workItem from="1586123196940" duration="1257000" />
+      <workItem from="1586183052379" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1586183100764">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586183100764" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1586183068664">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586183068664" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/newadd.php</url>
+          <line>61</line>
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
